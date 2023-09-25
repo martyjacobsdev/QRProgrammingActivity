@@ -25,7 +25,7 @@ cd .\QRProgrammingActivity\
 dotnet build
 dotnet run --project .\TrainStopSequenceProgram\ .\TrainStopSequenceProgram\StoppingSequenceInputFile.txt
 ```
-> Note: the input file can be changed at path .\TrainStopSequenceProgram\StoppingSequenceInputFile.txt 
+> Note: the input file can be located at path .\TrainStopSequenceProgram\StoppingSequenceInputFile.txt 
 
 ## Authors
 
