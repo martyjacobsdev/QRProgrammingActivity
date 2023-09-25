@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrainStopSequenceProgram": {
+      "commandName": "Project",
+      "commandLineArgs": "StoppingSequenceInputFile.txt"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.exe
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.deps.json
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.runtimeconfig.json
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.pdb
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\refint\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.pdb
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\obj\Debug\net6.0\ref\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR Test\TrainStopSequenceProgram\bin\Debug\net6.0\StoppingSequenceInputFile.txt
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.exe
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\bin\Debug\net6.0\StoppingSequenceInputFile.txt
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.deps.json
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.runtimeconfig.json
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\bin\Debug\net6.0\TrainStopSequenceProgram.pdb
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\refint\TrainStopSequenceProgram.dll
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.pdb
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\TrainStopSequenceProgram.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Desktop\QR\QRProgrammingActivity\TrainStopSequenceProgram\obj\Debug\net6.0\ref\TrainStopSequenceProgram.dll
